@@ -1,0 +1,65 @@
+
+h4{ color: white;
+    font-size: 60px;
+    font-variant: small-caps;
+    font-family: fantasy;
+    font-style: oblique;
+    font-style: bold;
+    text-align: center;
+    background: navy;
+}
+h1 {
+  color: navy;
+  text-align: center;
+  padding: 2px;
+  border-bottom: 5px solid navy;
+  border-top: 5px solid navy;
+  font-size: 60px;
+  font-family: monospace;
+  background-color: white;
+}
+h3 {
+  background: navy;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 85px;
+}
+
+body {
+  background-color: darkorange;
+}
+
+p{
+  text-align: left;
+  color: navy;
+  font-size: 30px;
+  font-family: serif;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.gif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18%;
+}
+
+.plug{
+  color: navy;
+  text-align: center;
+  margin: auto: 2px;
+  font-size: 65px;
+
+}
+link{
+  color: navy;
+}
+audio{
+  color: indigo;
+}
